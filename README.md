@@ -1,2 +1,2 @@
-# BirdCLEF2025: Bird Call Source Seperation with MixIT :penguin:
+# BirdCLEF2025: Sound Seperation of Bird Calls using MixIT :penguin:
 

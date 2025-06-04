@@ -1,2 +1,2 @@
-# birdcall-separation
-Bird Call Source Separation with MixIT in PyTorch
+# BCLEF2025: Bird Call Source Seperation with MixIT
+
